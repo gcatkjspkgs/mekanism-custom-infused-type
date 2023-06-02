@@ -1,9 +1,9 @@
 {
     "author": "Bread",
-    "description": "A script that eases the process of adding custom infuse types, requires Mekanism and Mekanism KubeJS. Docs: https://github.com/gcatkjspkgs/mekanism-custom-infused-type/blob/1.18/README.md. For 1.19 see mekanism-custom-infused-type-6",
+    "description": "A script that eases the process of adding custom infuse types. Docs: https://github.com/gcatkjspkgs/mekanism-custom-infused-type/blob/1.18/README.md. For 1.19 see mekanism-custom-infused-type-6",
     
     "versions": [8],
     "modloaders": ["forge"],
-    "dependencies": [],
+    "dependencies": ["mod:mekanism", "mod:kubejs_mekanism"],
     "incompatibilities": []
 }
